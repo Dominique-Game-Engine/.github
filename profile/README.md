@@ -1,3 +1,3 @@
-## Dominique Game Engine
+## Dominique Engine
 
-Modular and simple game engine. Focused on being educational.
+Modern C++ framework for creating graphical applications with high performance, modularity, and sustainability. Creative coding platform. 
